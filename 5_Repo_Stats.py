@@ -7,7 +7,6 @@
 from github import Github
 from operator import itemgetter
 
-nama = "galihboy" # nama user github
 lstTipe = [0,0] # menyimpan jml repo tipe private/public
 
 # Buat instance Github + akses token personal
