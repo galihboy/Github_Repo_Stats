@@ -2,7 +2,7 @@
 ###### Developed by [Galih Hermawan](https://galih.eu).
 ---
 
-Tutorial melihat data statistik repository github tersedia dalam [blog Hashnode](https://galih.hashnode.dev/melihat-statistik-repository-github-menggunakan-python-dan-pygithub).
+Tutorial melihat data statistik repository github tersedia dalam [Blog](https://blog.galih.eu/melihat-statistik-repository-github-menggunakan-python-dan-pygithub).
 
 **Spesifikasi pengujian.**
 - Python 3.9
